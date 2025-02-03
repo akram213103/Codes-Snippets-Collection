@@ -1,6 +1,6 @@
-# C++ Snippets Collection: Games & Mini Projects
+# Coding Snippets Collection: Games & Mini Projects
 
-This repository contains a collection of finished personal C++ games and mini projects. Each file represents a completed, standalone project that showcases different concepts, algorithms, and ideas. These projects are the result of personal practice, experimentation, and problem-solving.
+This repository contains a collection of finished personal games and mini projects. Each file represents a completed, standalone project that showcases different concepts, algorithms, and ideas. These projects are the result of personal practice, experimentation, and problem-solving.
 
 ## Contents
 - **Games** – Completed small games developed to explore game mechanics and programming concepts.
@@ -10,7 +10,7 @@ Feel free to explore the code, use it as inspiration, or adapt it for your own p
 
 ## Notes
 - Each project is standalone and self-contained.
-- These projects are intended to showcase different aspects of C++ programming.
+- These projects are intended to showcase different aspects of programming languages.
 - Contributions, suggestions, and feedback are always welcome!
 
 ---
